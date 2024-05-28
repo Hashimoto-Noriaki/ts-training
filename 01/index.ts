@@ -1,2 +1,2 @@
-let greeting: string = 'こんにちは';
+var greeting: string = 'こんにちは';
 console.log(greeting);
